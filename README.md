@@ -18,7 +18,8 @@ Zoner för PMR, DPMR (PMR med DMR), SRBR, DPMR med kryptering/scrambling samt en
 
 ## Digitala kontaktlistan
 
-Den digitala kontaktlistan innehåller call från SM för att få ner storleken på den så att den med säkerhet får plats. Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
+Den digitala kontaktlistan innehåller call från SM som varit aktiva de senaste 365 dagarna iör att få ner storleken på den så att den med säkerhet får plats. GD-73 har bara plats för 1024 kontakter. 
+Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
 
 ### Vilka filer ska du hämta?
 
@@ -36,6 +37,7 @@ Sedan är det bara att skjuta i kodpluggen i din radio.
 
 * GD-73 kan bara hantera förprogrammerade talgrupper via Contacts. Man kan inte fritt knappa in talgrupp på radion. Vill du ha tillgång till andra talgrupper än dem som redan finns måste du lägga till dem under Digital Contact.
 * Zonen HS (för hotspots) har snabbvalskanaler med de vanliga svenska talgrupperna. Dessa tar enbart emot trafik i den talgrupp som kanalen motsvarar. Vill du ha radion öppen för mottagning på alla talgrupper ställer du den på kanalen "HS Select TG/ID". Trycker du på PTT inom hangtime (15 sekunder) från senaste mottagning kommer du att sända i den talgrupp du hörde trafiken.
+Denna kanal är lämplig att ha radion stående på när den lyssnar på hotspoten.
 * Via menyvalet Contact så kan du på kanalen "HS Select TD/ID" välja valfri talgrupp eller kontakt ur listan att sända i.
 
 73's de SM0RGM Stefan

@@ -18,7 +18,7 @@ Zoner för PMR, DPMR (PMR med DMR), SRBR, DPMR med kryptering/scrambling samt en
 
 ## Digitala kontaktlistan
 
-Den digitala kontaktlistan innehåller call från SM som varit aktiva de senaste 365 dagarna iör att få ner storleken på den så att den med säkerhet får plats. GD-73 har bara plats för 1024 kontakter. 
+Den digitala kontaktlistan innehåller call från SM som varit aktiva de senaste 90 dagarna iör att få ner storleken på den så att den med säkerhet får plats. GD-73 har bara plats för 1024 kontakter. 
 Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
 
 ### Vilka filer ska du hämta?

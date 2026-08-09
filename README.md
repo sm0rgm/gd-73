@@ -14,12 +14,16 @@ Om du vill bidra med något så är du naturligtvis välkommen att göra så ant
 
 ## Vad ingår i filerna?
 
-Zoner för PMR, DPMR (PMR med DMR), SRBR, DPMR med kryptering/scrambling samt en zon för hotspot (amatörradio).
+Zoner för PMR, DPMR (PMR med DMR), SRBR, DPMR med kryptering/scrambling, hotspot (amatörradio), FM Simplex (433.400-433.575 MHz) samt tomma zoner för SM0-SM7.
+
+Eftersom radion klarar 64 zoner med 16 kanaler i varje kommer det att vara svårt att få plats med alla repeatrar för DMR och FM i hela Sverige. Därför har jag lagt in ett par exempel ("Johanneshov U" och "Varmdo U" i SM0 och "Soderasen U" i SM7). Sedan är tanken att man själv lägger in sina favoritrepeatrar på samma sätt. I princip går GD-73 att använda för repeatertrafik men antennen är liten och effekten begränsad (0,5 eller 2 watt beroende på modell) så man behöver sannolikt vara ganska nära den repeater man vill använda.
 
 ## Digitala kontaktlistan
 
 Den digitala kontaktlistan innehåller call från SM som varit aktiva de senaste 90 dagarna för att få ner storleken på den så att den med säkerhet får plats. GD-73 har bara plats för 1024 kontakter. 
 Vill du ha en kontaktlista med fler länder kan du skapa ett konto på [radioid.net](https://radioid.net) och generera kontaklistor med exakt de länder du vill ha med.
+
+Radion ska hantera 1024 kontakter men redan vid några hundra tar CPS:en extremt lång tid att importera dem.
 
 ### Vilka filer ska du hämta?
 

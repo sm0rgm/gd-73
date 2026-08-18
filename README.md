@@ -33,9 +33,10 @@ Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](
 
 Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.rdt.  
 Starta CPS-programmet och välj Öppna fil och välj N0CALL.rdt. Gå till fliken General Settings och ändra Your Name från "N0CALL Name" till ditt call och namn. 
-För Radio ID ändrar du från 1234567 till ditt eget DMR ID. Radion hanterar bara ett id så detta kommer att användas för både DPMR, Crypto och HS-zonernai. 
+För Radio ID ändrar du från 1234567 till ditt eget DMR ID. Radion hanterar bara ett id så detta kommer att användas för både DPMR, Crypto och HS-zonerna. 
 Vill du använda de krypterade kanalerna är det lämpligt att du byter till egna nycklar under Encrypt i CPS.
 Sedan är det bara att skjuta i kodpluggen i din radio.
+Du kan också behöva justera frekvens och color code för att matcha din hotspot.
 
 ### FAQ 
 
